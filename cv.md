@@ -8,6 +8,7 @@
 
 - Telegram: [@mo_dev](https://t.me/mo_dev)
 - Twitter: [Twitter/myaxyo](https://twitter.com/myaxyo)
+- LinkedIn: [LinkedIn/myaxyo](https://linkedin.com/in/myaxyo)
 
 ### Summary
 
